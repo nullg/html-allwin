@@ -2657,21 +2657,18 @@ section#serv_pg .skill_sec .serv_col {
 .call_sec {
     width: 100%;
     padding: 60px 0;
-    background: #525b60;
 }
 
 h2.cal_titl {
     font-size: 20px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #fff;
     line-height: 1;
     margin: 0;
 }
 
 p.cal_info {
     font-size: 12px;
-    color: #fff;
     line-height: 1.75;
     margin: 0;
 }
